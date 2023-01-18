@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\obj\Debug\Fibonacci_Number.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\obj\Debug\Fibonacci_Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\obj\Debug\Fibonacci_Number.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\bin\Debug\Fibonacci_Number.exe.config
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\bin\Debug\Fibonacci_Number.exe
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\bin\Debug\Fibonacci_Number.pdb
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\obj\Debug\Fibonacci_Number.exe
+C:\Users\INSIGNIA PC\source\repos\Fibonacci_Number\Fibonacci_Number\obj\Debug\Fibonacci_Number.pdb
